@@ -3,6 +3,7 @@ public static void main(String[] args){
 	System.out.println("hello world");
 System.out.println("muyileilei");
 System.out.println("yangleilei");
+System.out.println("12234");
 }
 
 
